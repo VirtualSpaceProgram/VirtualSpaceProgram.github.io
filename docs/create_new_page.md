@@ -15,3 +15,6 @@
   とりあえず`docs`ディレクトリに書き溜めていけばいいと思います  
   Previewタブでページのプレビューができます  
 ![Screenshot from 2020-03-31 12-26-12](https://user-images.githubusercontent.com/15693656/77983797-db2aa280-734a-11ea-8bd6-1421dd12808a.png)  
+1. Forkしたリポジトリの内容を本家リポジトリに反映してもらうようリクエストします  
+  編集画面下にある`Create a new branch for this commit and start a pull request.`を選択し、適当に名前をつけて`Propose file change`をクリックします  
+![Screenshot from 2020-03-31 12-38-25](https://user-images.githubusercontent.com/15693656/77984485-a4558c00-734c-11ea-8fe7-6ea460f0c4ff.png)  
