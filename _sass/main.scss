@@ -1,0 +1,34 @@
+body{
+  margin: 0px;
+  background-color: black;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: white;
+}
+
+a{
+  color: lightskyblue;
+}
+
+img{
+  width: 100%;
+}
+
+.current{
+    color: green;
+}
+
+.container{
+  margin: auto;
+  width: 100%;
+  max-width: 1012px;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  border: solid 2px grey;
+}
+
+table th, table td{
+  border: solid 1px grey;
+}
