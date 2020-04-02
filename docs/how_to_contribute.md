@@ -1,5 +1,5 @@
 # 編集者の方へ
 本サイトにはVSPの活動に関することならなんでもお好きに書いていただいて構いません。このページでは編集方法、更新依頼等についてまとめます。
 
-* [ページの新規作成方法](create_new_page.md)
-* [要望の提出方法](create_new_issue.md)
+* [ページの新規作成方法](/docs/create_new_page.md)
+* [要望の提出方法](/docs/create_new_issue.md)
