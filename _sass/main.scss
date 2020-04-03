@@ -38,8 +38,10 @@ table{
   width: 100%;
   border-collapse: collapse;
   border: solid 2px grey;
+  min-width: 1000px;
 }
 
 table th, table td{
   border: solid 1px grey;
+  white-space: nowrap;
 }
