@@ -3,7 +3,7 @@
 
 ## Jekyllのインストール
 1. こちらのページの手順でJekyllをインストールします。
-    * [インストール | Jekyll • シンプルで、ブログのような、静的サイト](https://jekyllrb-ja.github.io/docs/installation/)
+    * [Jekyllインストール](https://jekyllrb-ja.github.io/docs/installation/)
 
 ## Clone(ダウンロード)
 1. 下記コマンドで必要なデータがダウンロードできます。
