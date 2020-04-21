@@ -1,3 +1,4 @@
 baseurl: ""
 url: "https://virtualspaceprogram.github.io"
 future: true
+timezone: Asia/Tokyo
