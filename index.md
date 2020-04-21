@@ -5,14 +5,34 @@ Virtual Space Program(VSP)とは、VRchat内において天体、宇宙、星等
 ## [Discord](http://discord.gg/znwtKr4)
 VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加ください。
 
+## イベントカレンダー
+開催予定のイベント一覧です。最新情報はDiscordをご覧ください。
+
+<ul>
+  {% assign curDate = site.time | date: '%s' %}
+  {% assign sorted = site.posts | reverse %}
+  {% for post in sorted %}
+    {% assign postStartDate = post.date | date: '%s' %}
+    {% if postStartDate >= curDate %}
+      <li>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.date | date: '%Y/%m/%d' }}: {{ post.title }}</a></h3>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
 ## [News](/news)
 イベント情報や掲載情報をご紹介します。
 
 <ul>
-	{% for post in site.posts limit:5 %} 
-  <li>
-    <h3><a href="{{ post.url | relative_url }}">{{ post.date | date: '%Y/%m/%d' }}: {{ post.title }}</a></h3>
-  </li>
+  {% assign curDate = site.time | date: '%s' %}
+  {% for post in site.posts limit:10 %} 
+    {% assign postStartDate = post.date | date: '%s' %}
+    {% if postStartDate < curDate %}
+      <li>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.date | date: '%Y/%m/%d' }}: {{ post.title }}</a></h3>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
