@@ -1,0 +1,20 @@
+{% if include.tag_names %}
+  {% assign tag_names = include.tag_names %}
+
+{% else %}
+  {% assign tag_names = "" | split: "|"  %}
+
+  {% for posts_by_tag in site.tags %}
+    {% assign tag_names = tag_names | push: posts_by_tag.first %}
+  {% endfor %}
+
+  {% assign tag_names = tag_names | sort %}
+{% endif %}
+
+{% for tag_name in tag_names %}
+  <div class=tag_cloud>
+    <a href="{{ baseurl }}/tags#{{ tag_name | slugize }}">
+      {{ tag_name }}
+    </a>
+  </div>
+{% endfor %}

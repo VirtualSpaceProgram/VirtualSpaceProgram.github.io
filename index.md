@@ -19,5 +19,8 @@ VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加�
 ## [イベントアーカイブ](/docs/event_archive.md)
 過去のイベント一覧です。
 
+## [Tags](/tags)
+タグごとの記事一覧です。
+
 ## [編集者の方へ](/docs/how_to_contribute.md)
 本ページの製作に関わっていただける方を大募集中です。
