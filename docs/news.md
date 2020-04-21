@@ -1,6 +1,7 @@
 ---
 layout: default
 title: News
+permalink: /news
 ---
 <h1>News</h1>
 

@@ -5,7 +5,7 @@ Virtual Space Program(VSP)とは、VRchat内において天体、宇宙、星等
 ## [Discord](http://discord.gg/znwtKr4)
 VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加ください。
 
-## [News](./news.md)
+## [News](/news)
 イベント情報や掲載情報をご紹介します。
 
 <ul>
