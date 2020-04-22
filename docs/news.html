@@ -5,7 +5,19 @@ permalink: /news
 ---
 <h1>News</h1>
 
-VSPに関わる記事、動画、SNSの投稿などを掲載しています。
+<p>VSPに関わる記事、動画、SNSの投稿などを掲載しています。</p>
+
+{% assign tag_names = "" | split: "|"  %}
+
+{% for posts_by_tag in site.tags %}
+  {% assign tag_names = tag_names | push: posts_by_tag.first %}
+{% endfor %}
+
+{% assign tag_names = tag_names | sort %}
+
+{% include tag_cloud.html tag_names=tag_names %}
+
+<hr>
 
 <ul>
   {% for post in site.posts %}
