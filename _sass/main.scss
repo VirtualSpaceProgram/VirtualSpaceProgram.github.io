@@ -64,3 +64,15 @@ table th, table td{
   text-align: right;
   font-size: 20px;
 }
+
+.tag_cloud{
+  padding: 3px 10px;
+  margin: 10px 2px;
+  border-radius: 17px;
+  border: solid 2px lightskyblue;
+  display: inline-block;
+}
+
+.tag_cloud a{
+  text-decoration: none;
+}
