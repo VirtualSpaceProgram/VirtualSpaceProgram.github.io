@@ -39,6 +39,9 @@ VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加�
 ## [イベントアーカイブ](/docs/event_archive.md)
 過去のイベント一覧です。
 
+## [Worlds](/worlds)
+宇宙に関するWorldをご紹介します。
+
 ## [Tags](/tags)
 タグごとの記事一覧です。
 
