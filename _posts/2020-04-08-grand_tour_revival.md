@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VSPグランドツアーのリバイバル解説「SpaceX～火星移住計画」"
+title: "グランドツアーリバイバル SpaceX編"
 tags: [event]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "アニメーションライブ「Escape」の各シーン詳細解説"
+title: "朝霧さんが語る！アニメーションライブ解説編＆第六回雑談会"
 tags: [event]
 ---
 
