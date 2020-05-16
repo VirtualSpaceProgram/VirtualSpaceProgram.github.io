@@ -1,6 +1,11 @@
-# Virtual Space Program
+---
+layout: default
+title: "天文仮想研究所: Virtual Space Program"
+---
 
-Virtual Space Program(VSP)とは、VRchat内において天体、宇宙、星等に関するイベント、集会を行うグループです。
+# 天文仮想研究所 -VSP-
+
+天文仮想研究所(Virtual Space Program: VSP)とは、VRchat内において天体、宇宙、星等に関するイベント、集会を行うグループです。
 
 ## [Discord](http://discord.gg/znwtKr4)
 VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加ください。
