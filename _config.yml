@@ -4,3 +4,4 @@ future: true
 timezone: Asia/Tokyo
 plugins:
  - jekyll-sitemap
+ - jekyll-feed
