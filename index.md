@@ -50,5 +50,9 @@ VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加�
 ## [Tags](/tags)
 タグごとの記事一覧です。
 
+## Twitter
+
+<a class="twitter-timeline" data-width="450" data-height="500" data-chrome="noheader nofooter" data-theme="dark" href="https://twitter.com/vsp_vrc?ref_src=twsrc%5Etfw">Tweets by vsp_vrc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## [編集者の方へ](/docs/how_to_contribute.md)
 本ページの製作に関わっていただける方を大募集中です。
