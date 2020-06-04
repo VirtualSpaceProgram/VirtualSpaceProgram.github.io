@@ -1,14 +1,13 @@
 # ページの新規作成方法
-## リポジトリのFork
+## 編集権限のリクエスト
 1. GitHubのアカウントを作成し、ログインします  
-1. [VirtualSpaceProgram.github.io](https://github.com/VirtualSpaceProgram/VirtualSpaceProgram.github.io)のページを開きます  
-1. 右上のForkをクリック  
-![Screenshot from 2020-03-31 12-07-35](https://user-images.githubusercontent.com/15693656/77983285-8fc3c480-7349-11ea-8c43-8824229330d9.png)  
-1. 自分のアカウントを選択します  
-![Screenshot from 2020-03-31 12-08-15](https://user-images.githubusercontent.com/15693656/77983380-da454100-7349-11ea-9ce4-ceeec39df22d.png)  
-1. 無事にForkができると、同じ名前のリポジトリが自分のアカウントにコピーされます(今回はKuwamai/VirtualSpaceProgram.github.ioとなっている)  
+1. VirtualSpaceProgram organizationのOwnerに先ほど作成したGitHubアカウントのIDを伝え、編集権限を取得します 
+    Ownerは下記リンクから確認できます  
+    [People · VirtualSpaceProgram](https://github.com/orgs/VirtualSpaceProgram/people)  
+    要するにVSP DiscordにてKuwamaiにGitHub IDを伝えればOKです
 
 ## ページの新規作成
+1. [VirtualSpaceProgram.github.io](https://github.com/VirtualSpaceProgram/VirtualSpaceProgram.github.io)のページを開きます  
 1. スクショ中央付近のCreate new fileをクリックします
 ![Screenshot from 2020-03-31 12-11-17](https://user-images.githubusercontent.com/15693656/77983449-0791ef00-734a-11ea-8a1a-c7a1fcfaec04.png)  
 1. Markdownで好きに書きます  
