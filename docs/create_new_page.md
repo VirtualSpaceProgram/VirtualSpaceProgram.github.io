@@ -24,13 +24,6 @@
 ![B4E2892D-E43E-4C31-BC72-570D86BE5120](https://user-images.githubusercontent.com/15693656/83757756-eb912d80-a6ab-11ea-9220-6908693f8597.JPG)  
 
 ## 更新のリクエスト
-1. Forkしたリポジトリの内容を本家リポジトリに反映してもらうようリクエストします  
-  [VirtualSpaceProgram.github.io](https://github.com/VirtualSpaceProgram/VirtualSpaceProgram.github.io)のページを開き、スクショ中央付近の`New pull request`をクリックします  
-![Screenshot from 2020-03-31 12-11-17](https://user-images.githubusercontent.com/15693656/77983449-0791ef00-734a-11ea-8a1a-c7a1fcfaec04.png)  
-1. これがリクエスト画面です  
-  Forkしたリポジトリ内容を反映してほしいので、`compare across forks`をクリックします  
-![Screenshot from 2020-03-31 13-00-50](https://user-images.githubusercontent.com/15693656/77985970-d79a1a00-7350-11ea-8476-ebf88abdc077.png)  
-1. 矢印の左側が反映先の本家リポジトリなので、右側をクリックして自分がForkしたリポジトリを選択します  
-![Screenshot from 2020-03-31 13-01-16](https://user-images.githubusercontent.com/15693656/77986021-fd272380-7350-11ea-9858-904634b17362.png)  
-1. それっぽいタイトルとコメントを入力して緑の`Create pull request`ボタンを押せばリクエストの完了です  
-![Screenshot from 2020-03-31 13-02-39](https://user-images.githubusercontent.com/15693656/77986022-00baaa80-7351-11ea-8b7f-bf3be0770446.png)  
+1. `base`の部分が`base: master`になっていることを確認(なってなかったらクリックしてmasterを選択)します  
+  緑の`Create pull request`をクリックしてリクエスト完了です  
+![Screenshot from 2020-06-04 21-46-13](https://user-images.githubusercontent.com/15693656/83758369-f0a2ac80-a6ac-11ea-9e35-4196ddccf0b6.png)
