@@ -24,10 +24,12 @@ permalink: /worlds
       {% assign postStartDate = post.date | date: '%s' %}
       {% if postStartDate < curDate %}
         <li>
-          <div class="thumbnail">
-            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-            {{ post.excerpt }}
-          </div>
+          <a href="{{ post.url | relative_url }}">
+            <div class="thumbnail">
+              <h3>{{ post.title }}</h3>
+              {{ post.excerpt }}
+            </div>
+          </a>
         </li>
       {% endif %}
     {% endfor %}
