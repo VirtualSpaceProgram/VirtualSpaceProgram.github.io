@@ -1,0 +1,12 @@
+---
+layout: post
+title: "「アポロ：ミッション・トゥ・ザ・ムーン 」上映会"
+tags: [event]
+---
+
+時間: 22:00~
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">天文仮想研究所 VSP 7月特別企画<br><br>2020/07/05 日曜日　21時会場<br><br>VRChatパブリックビューイング<br><br>「アポロ：ミッション・トゥ・ザ・ムーン 」上映<br><br>Gatsby007 にJoin <br><br>アポロ計画のドキュメンタリーをみんなでワイワイしながら鑑賞します<br><br>お気軽にご参加ください！<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://twitter.com/hashtag/VRChat?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat</a> <a href="https://t.co/fJFMNpUr3D">pic.twitter.com/fJFMNpUr3D</a></p>&mdash; Gatsby007　（ギャッツ） (@Shishinokami777) <a href="https://twitter.com/Shishinokami777/status/1278939781087424513?ref_src=twsrc%5Etfw">July 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">We enjoyed &quot;National Geographic, Apollo: Mission to the Moon&quot;. But it was only in Japan and attendees from Europe could not enjoy it!? We are sorry! Borrow-san used VPN to solve this problem.<br><br>Next event will be July 10, 01:00am by Medaka-san.<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://twitter.com/hashtag/VirtualSpaceProgram?src=hash&amp;ref_src=twsrc%5Etfw">#VirtualSpaceProgram</a> <a href="https://t.co/GGqyCxTYF2">pic.twitter.com/GGqyCxTYF2</a></p>&mdash; litalita (@litalita9764629) <a href="https://twitter.com/litalita9764629/status/1279782296585768962?ref_src=twsrc%5Etfw">July 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">アポロ計画ドキュメンタリー鑑賞会　無事終了しました！<br>非常に楽しめました。またこういうイベントやってみたいですね。<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://t.co/CJSBO0N6Vc">pic.twitter.com/CJSBO0N6Vc</a></p>&mdash; Gatsby007　（ギャッツ） (@Shishinokami777) <a href="https://twitter.com/Shishinokami777/status/1279778776985907201?ref_src=twsrc%5Etfw">July 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
