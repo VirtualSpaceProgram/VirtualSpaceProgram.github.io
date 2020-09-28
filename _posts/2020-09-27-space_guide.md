@@ -5,13 +5,11 @@ tags: [event]
 ---
 
 ## 告知
-
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">天文仮想研究所 VSP 9月の定期集会<br><br>[人類の未来]<br><br>9月27日(日) 21時～<br>JOIN先[ろれる(roreru)]<br><br>地球を飛び出し、宇宙に住む未来の人類。その世界で人々はどこに住み、何をして暮らすのか。小惑星採掘からダイソン球を経て更に外へと広がる、壮大なスケールでご紹介します。<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a><a href="https://twitter.com/hashtag/VRChat?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat</a> <a href="https://t.co/umvWNLzlnN">pic.twitter.com/umvWNLzlnN</a></p>&mdash; ろれる/月鏡の灯篭/天文仮想研究所 VSP 所長　現在、VR業界へ転職希望中 (@roreru963) <a href="https://twitter.com/roreru963/status/1307871086042726406?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">VSP September Regular Meetup<br><br>[The future of mankind]<br><br>Sep. 27, 21:00 JST<br>Join [roreru] in <a href="https://twitter.com/hashtag/VRChat?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat</a><br><br>We will provide English commentary. Join Discord <a href="https://t.co/lwrOnCGT7q">https://t.co/lwrOnCGT7q</a> and use &quot;相談室advice&quot;<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://twitter.com/hashtag/VirtualSpaceProgram?src=hash&amp;ref_src=twsrc%5Etfw">#VirtualSpaceProgram</a> <a href="https://t.co/o64IYOjY70">https://t.co/o64IYOjY70</a></p>&mdash; litalita (@litalita9764629) <a href="https://twitter.com/litalita9764629/status/1307954820230209537?ref_src=twsrc%5Etfw">September 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 配信映像
-
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7kqj_ZAjnac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
