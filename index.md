@@ -54,5 +54,9 @@ VSPはVRChatだけでなくDiscordでも交流が盛んです。イベントの�
 
 <a class="twitter-timeline" data-width="450" data-height="500" data-chrome="noheader nofooter" data-theme="dark" href="https://twitter.com/vsp_vrc?ref_src=twsrc%5Etfw">Tweets by vsp_vrc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## [pixivFANBOX](https://vsp-vrc.fanbox.cc/)
+
+VSPはFANBOXを開設しております。皆様からいただいたご支援はVSPが活動を拡大するにあたって必要な経費(講師への謝礼、リアルイベントでのレンタル費用など)とさせていただきます。メンバー個人への支援には直接つながりませんので、予めご了承ください。
+
 ## [編集者の方へ](/docs/how_to_contribute.md)
 本ページの製作に関わっていただける方を大募集中です。
