@@ -8,10 +8,10 @@ title: "天文仮想研究所: Virtual Space Program"
 天文仮想研究所(Virtual Space Program: VSP)とは、VRchat内において天体、宇宙、星等に関するイベント、集会を行うグループです。
 
 ## [Discord](http://discord.gg/znwtKr4)
-VSPはVRChatだけでなくDiscordでも交流が盛んです。是非ご参加ください。
+VSPはVRChatだけでなくDiscordでも交流が盛んです。イベントの告知や天体写真、ゲーム、雑談など様々です。是非ご参加ください。
 
 ## イベントカレンダー
-開催予定のイベント一覧です。最新情報はDiscordをご覧ください。
+開催予定のイベント一覧です。本サイトはアーカイブを重視しているため更新が遅いです。最新情報はDiscordをご覧ください。
 
 <ul>
   {% assign curDate = site.time | date: '%s' %}
