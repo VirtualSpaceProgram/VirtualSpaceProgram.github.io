@@ -1,0 +1,17 @@
+---
+layout: post
+title: "第九回雑談会"
+tags: [event]
+---
+
+## 告知
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">VSP天文仮想研究所10月定期雑談会&amp;ロケットカフェMaxQ初営業日<br><br>10/10土曜日21:00～<br>集合写真22:15辺り<br><br>join先:katamitirunner<br><br>天文仮想研究所の10月定期雑談会となります。VSP以外の方でもお気軽にご参加ください。<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a><a href="https://twitter.com/hashtag/VRChat?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat</a> <a href="https://t.co/WwxQpUm3KR">pic.twitter.com/WwxQpUm3KR</a></p>&mdash; 片道ランナー (@katamitirunner) <a href="https://twitter.com/katamitirunner/status/1313158018100539399?ref_src=twsrc%5Etfw">October 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 反響
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">本日はVS雑談会にお越し頂きありがとうございました。<br>MAXで30人超の方に来て頂けました。<br><br>来週はついにVSP1周年イベント！！<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> 　<a href="https://twitter.com/hashtag/VRChat?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat</a> <a href="https://t.co/mXGPPv2ChZ">pic.twitter.com/mXGPPv2ChZ</a></p>&mdash; 片道ランナー (@katamitirunner) <a href="https://twitter.com/katamitirunner/status/1314952856697409538?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">ロケットカフェMaxQで行われたVSP天文仮想研究所10月定期雑談会に行ってきた。宇宙好きなら夢見る世界各国のロケットを見ながらくつろげるカフェもVRなら行ける。 <a href="https://t.co/qOCq2pFFS0">pic.twitter.com/qOCq2pFFS0</a></p>&mdash; Seikoh Fukuma (@doku_f) <a href="https://twitter.com/doku_f/status/1314950473833615361?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">VSP雑談集会でした～ <a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://t.co/w6dPPSXcy0">pic.twitter.com/w6dPPSXcy0</a></p>&mdash; サイファ (@white_cypha) <a href="https://twitter.com/white_cypha/status/1314957551411240961?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">ロケットカフェMaxQにて行われたVSP雑談会参加させて頂きました。　VRで見れる世界各国の30機近いロケットの実物大展示は壮大です！　（自分が作ったモデルもいくつか展示して頂きました。）<a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> 　<a href="https://twitter.com/hashtag/VRChat?src=hash&amp;ref_src=twsrc%5Etfw">#VRChat</a> <a href="https://t.co/PwcPP9Poil">pic.twitter.com/PwcPP9Poil</a></p>&mdash; ゆういちろう (@yuuitirou528) <a href="https://twitter.com/yuuitirou528/status/1315142002346913794?ref_src=twsrc%5Etfw">October 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
