@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【バーチャル探検紀行223】掲載"
+title: "【バーチャル探検紀行223】掲載"
 tags: [comic]
 ---
 
