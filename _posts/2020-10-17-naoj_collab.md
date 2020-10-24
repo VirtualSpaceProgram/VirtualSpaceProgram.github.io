@@ -1,0 +1,28 @@
+---
+layout: post
+title: "国立天文台 x VSPコラボイベント@1周年記念イベント"
+tags: [event]
+---
+
+VSP 1周年記念イベントにて国立天文台アルマ望遠鏡広報主任、平松正顕さんによる特別講演が行われました。
+
+## 告知📣
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">【イベント情報】2020年10月17日（土） 18:00-19:00、VRChatにて講演「最先端天文学が解き明かす宇宙の謎」（講師：平松正顕 国立天文台助教）。VR空間に再現されたアルマ望遠鏡サイトでの講演です。講演申込は主催者 <a href="https://twitter.com/vsp_vrc?ref_src=twsrc%5Etfw">@vsp_vrc</a> まで。YouTube配信も予定されています。<a href="https://t.co/XPl2uAOL15">https://t.co/XPl2uAOL15</a></p>&mdash; 国立天文台 アルマ望遠鏡 (@ALMA_Japan) <a href="https://twitter.com/ALMA_Japan/status/1315985747191697408?ref_src=twsrc%5Etfw">October 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## 配信映像📡
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYCsUA0r_Y0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## 反響🐦
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> VSP一周年記念イベント 国立天文台チリ観測所の平松正顕先生<a href="https://twitter.com/parsonii?ref_src=twsrc%5Etfw">@parsonii</a> の講演に参加させていただきました！VRCで体験できるなんてすごい！！<br><br>実際と同じように作られたアルマ望遠鏡ワールドでお話を聞きました。ワールドの空、本当に現地だとこんな感じらしい（少し暗い <a href="https://t.co/XB6I420PmR">pic.twitter.com/XB6I420PmR</a></p>&mdash; 火事屋@VRC／U10作者 (@kaziya21_VRC) <a href="https://twitter.com/kaziya21_VRC/status/1317428688695119874?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">NAOJ 平松 氏によるALMA解説，めちゃくちゃいい時間を過ごせた...！実際にチリ観測所に居られた方のお話を聴けるなんて，なんて素敵な体験．朝霧さんが精巧に作った望遠鏡群も凄かった．<br>平松氏の研究や紹介はこちら→ <a href="https://t.co/Csfa2TLdWH">https://t.co/Csfa2TLdWH</a> <a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://t.co/CDOLEeT3Ag">pic.twitter.com/CDOLEeT3Ag</a></p>&mdash; 鷹乃みかん🍊 / VTuber (@MikanTakano) <a href="https://twitter.com/MikanTakano/status/1317471739618545664?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> さんの 国立天文台 平松先生 <a href="https://twitter.com/parsonii?ref_src=twsrc%5Etfw">@parsonii</a> の特別講演、すごかった✨　素晴らしかった✨ <br>やっぱりVRのよさは、直接行けない「場所」を体験出来る事だと再確認した✨<br>ほんとにほんとに、この講演、全国の小中学校でも実現して欲しい✨ （あともちろん科学館でも✨）<a href="https://twitter.com/hashtag/VR%E6%95%99%E8%82%B2?src=hash&amp;ref_src=twsrc%5Etfw">#VR教育</a>　<a href="https://twitter.com/hashtag/%E6%95%99%E8%82%B2%E3%81%A8VR?src=hash&amp;ref_src=twsrc%5Etfw">#教育とVR</a> <a href="https://t.co/cV59ffyiFK">pic.twitter.com/cV59ffyiFK</a></p>&mdash; YUKIYA🌓ｻｲｴﾝｽｴﾃﾞｭｹｰﾀｰ／ﾊﾞｰﾁｬﾙ理科おねえさん🦋🔬👩‍🏫 (@VrYukiya) <a href="https://twitter.com/VrYukiya/status/1317476571523866624?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <br>平松正顕先生ご講演の「最先端天文学が解き明かす宇宙の謎」に参加してきました！<br><br>色々なお話と実際のアルマ展望台を再現されたワールドで実物を見ながら詳しい解説を頂いたのは貴重な体験でした。<br>特に最後の質疑応答が活発でとても楽しかったです！<br><br>動画<a href="https://t.co/ROMCZ7bqMV">https://t.co/ROMCZ7bqMV</a> <a href="https://t.co/yp6jegY3qr">pic.twitter.com/yp6jegY3qr</a></p>&mdash; うまー (@umaibow4) <a href="https://twitter.com/umaibow4/status/1317465585349898241?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">VSP 一周年記念イベント その5 【最先端天文学が解き明かす宇宙の謎】(PC)<br>国立天文台の平松先生による特別講演。<br>アルマを構成する4種の望遠鏡の違いを直接目で見て確かめられるという非常に貴重な体験ができました。<br><br>これが自宅で、しかも無料でできるのおかしい...<br> <a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://t.co/NH32ZlY2jj">pic.twitter.com/NH32ZlY2jj</a></p>&mdash; アロス (@Alos_Linx) <a href="https://twitter.com/Alos_Linx/status/1317423190327488512?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">実物を見ながら出ないと絶対できないような細かいパーツとかの話ができていて、VRならではだなと思うと同時にここまで精巧に作ったモデラーさんが偉大すぎる <a href="https://twitter.com/hashtag/%E5%A4%A9%E6%96%87%E4%BB%AE%E6%83%B3%E7%A0%94%E7%A9%B6%E6%89%80?src=hash&amp;ref_src=twsrc%5Etfw">#天文仮想研究所</a> <a href="https://t.co/ivmUiqUQHA">pic.twitter.com/ivmUiqUQHA</a></p>&mdash; kn1cht (@kn1cht) <a href="https://twitter.com/kn1cht/status/1317413462272733187?ref_src=twsrc%5Etfw">October 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
