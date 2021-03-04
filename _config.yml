@@ -5,3 +5,4 @@ timezone: Asia/Tokyo
 plugins:
  - jekyll-sitemap
  - jekyll-feed
+ - jekyll-redirect-from
