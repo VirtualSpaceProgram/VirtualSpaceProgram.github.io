@@ -1,4 +1,5 @@
 ---
+redirect_to: "https://virtualspaceprogram.org/"
 layout: default
 title: "天文仮想研究所: Virtual Space Program"
 ---
